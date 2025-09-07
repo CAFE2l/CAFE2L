@@ -2,7 +2,6 @@
 
 ## 🚀 Languages & Technologies
 
-## 🚀 Languages & Technologies
 
 <p align="left">
   <!-- HTML -->
@@ -24,6 +23,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-
-<!-- Canva -->
-<img src="https://seeklogo.com/images/C/canva-logo-9EAD6D5FC9-seeklogo.com.png" alt="canva" width="40" height="40"/>
