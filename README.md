@@ -1,7 +1,6 @@
 <!-- Banner/GIF -->
 <p align="center">
-  <img src="<img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/10e8c124-e746-45e1-8826-c329f6c21b7b" />
-" width="600" alt="Banner"/>
+  <img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/fdb2f009-bfea-4eee-a56c-3dfff0ecf7ad" />
 </p>
 
 # 👋 Hey, I'm CAFÉ  
