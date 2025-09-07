@@ -1,6 +1,7 @@
 <!-- Banner/GIF -->
 <p align="center">
-  <img src="[[[https://cdn.discordapp.com/attachments/1178086177862066257/1414262434172113028/IMG-20250907-WA0057.jpg?ex=68beee08&is=68bd9c88&hm=7e1fa3749c06682ba49e47a7fae4534fc341cf431fe229a5306d9c2d8a234155](https://media.discordapp.net/attachments/1178086177862066257/1414264199244156958/IMG-20250907-WA0063.jpg?ex=68beefac&is=68bd9e2c&hm=2e6cf529b1288fdff009389cf74dac7ea796eecba293b357c9dd1d62c3ee9b7d&=&format=webp&width=938&height=518)](https://discord.com/channels/@me/1178086177862066257/1414264199785484390)](https://media.discordapp.net/attachments/1178086177862066257/1414264199244156958/IMG-20250907-WA0063.jpg?ex=68beefac&is=68bd9e2c&hm=2e6cf529b1288fdff009389cf74dac7ea796eecba293b357c9dd1d62c3ee9b7d&=&format=webp&width=938&height=518)" width="600" alt="Banner"/>
+  <img src="<img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/10e8c124-e746-45e1-8826-c329f6c21b7b" />
+" width="600" alt="Banner"/>
 </p>
 
 # 👋 Hey, I'm CAFÉ  
