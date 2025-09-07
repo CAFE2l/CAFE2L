@@ -1,6 +1,6 @@
 <!-- Banner/GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" alt="Welcome GIF"/>
+  <img src="https://cdn.discordapp.com/attachments/1178086177862066257/1414262434172113028/IMG-20250907-WA0057.jpg?ex=68beee08&is=68bd9c88&hm=7e1fa3749c06682ba49e47a7fae4534fc341cf431fe229a5306d9c2d8a234155" width="600" alt="Banner"/>
 </p>
 
 # 👋 Hey, I'm CAFÉ  
