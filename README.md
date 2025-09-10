@@ -43,7 +43,7 @@
 ---
 
 ## 🎥 YouTube & Live Streams  
-📌 Check out my **daily Study With Me streams** → [🎬 My YouTube Channel](https://www.youtube.com/)  
+📌 Check out my **daily Study With Me streams** → [🎬 My YouTube Channel]([https://www.youtube.com/](https://www.youtube.com/@CAFE_ct/streams))  
 
 ---
 
