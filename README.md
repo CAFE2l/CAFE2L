@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="750" height="414" alt="image" src="https://github.com/user-attachments/assets/fdb2f009-bfea-4eee-a56c-3dfff0ecf7ad" />
+  <img width="910" height="501" alt="image" src="https://github.com/user-attachments/assets/7b95841c-ec23-45ed-aa03-9441c0c2c44e" />
 </p>
 
 # 👋 Hey, I'm CAFÉ  
