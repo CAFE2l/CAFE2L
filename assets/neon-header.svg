@@ -1,34 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="CAFÉ neon header">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 260" width="1200" height="260" role="img" aria-label="CAFÉ neon header">
   <defs>
-    <linearGradient id="g" x1="0" x2="1">
-      <stop offset="0%" stop-color="#00ffd5">
-        <animate attributeName="stop-color" values="#00ffd5;#00a3ff;#ff00d0;#00ffd5" dur="6s" repeatCount="indefinite"/>
+    <linearGradient id="grad" x1="0" x2="1">
+      <stop offset="0%" stop-color="#9b59ff">
+        <animate attributeName="stop-color" values="#9b59ff;#6dd3ff;#ff79c6;#9b59ff" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="50%" stop-color="#00a3ff">
-        <animate attributeName="stop-color" values="#00a3ff;#ff00d0;#00ffd5;#00a3ff" dur="6s" repeatCount="indefinite"/>
+      <stop offset="50%" stop-color="#6dd3ff">
+        <animate attributeName="stop-color" values="#6dd3ff;#ff79c6;#9b59ff;#6dd3ff" dur="6s" repeatCount="indefinite"/>
       </stop>
-      <stop offset="100%" stop-color="#ff00d0">
-        <animate attributeName="stop-color" values="#ff00d0;#00ffd5;#00a3ff;#ff00d0" dur="6s" repeatCount="indefinite"/>
+      <stop offset="100%" stop-color="#ff79c6">
+        <animate attributeName="stop-color" values="#ff79c6;#9b59ff;#6dd3ff;#ff79c6" dur="6s" repeatCount="indefinite"/>
       </stop>
     </linearGradient>
 
     <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feGaussianBlur stdDeviation="10" result="b"/>
       <feMerge>
-        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="b"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
+
     <style><![CDATA[
-      .txt { font-family: "Fira Code", "Segoe UI", Roboto, sans-serif; font-weight:700; font-size:64px; fill: url(#g); stroke: rgba(255,255,255,0.05); stroke-width:1; }
-      .outline { fill:none; stroke:#00000044; stroke-width:6; filter:url(#glow); opacity:0.9 }
+      .bg { fill: #071018; }
+      .name { font-family: "Segoe UI", Roboto, "Fira Sans", Arial, sans-serif; font-weight:900; font-size:84px; fill:url(#grad); stroke: rgba(255,255,255,0.04); stroke-width:1; filter:url(#glow); }
+      .subtitle { font-family: "Segoe UI", Roboto, Arial, sans-serif; font-size:20px; fill: #ffffffcc; }
     ]]></style>
   </defs>
 
-  <rect width="100%" height="100%" rx="14" fill="#071018"/>
-  <g transform="translate(40,40)">
-    <text class="txt" x="0" y="70">CAFÉ</text>
-    <text class="txt" x="0" y="140" font-size="32">Junior Frontend • Future Full-Stack</text>
+  <rect width="100%" height="100%" rx="12" class="bg"/>
+
+  <!-- Centro absoluto: x="50%" + text-anchor="middle" -->
+  <g>
+    <!-- palavra CAFÉ centralizada horizontal e verticalmente (ligeiro deslocamento para cima do centro) -->
+    <text class="name" x="50%" y="40%" text-anchor="middle" dominant-baseline="middle">CAFÉ</text>
+
+    <!-- subtítulo centralizado logo abaixo -->
+    <text class="subtitle" x="50%" y="62%" text-anchor="middle">Junior Frontend • Future Full-Stack</text>
   </g>
 </svg>
