@@ -1,12 +1,12 @@
 <p align="center">
-  <img width="910" height="501" alt="image" src="https://github.com/user-attachments/assets/7b95841c-ec23-45ed-aa03-9441c0c2c44e" />
+  <img width="910" height="501" alt="banner" src="https://github.com/user-attachments/assets/7b95841c-ec23-45ed-aa03-9441c0c2c44e" />
 </p>
 
-# 👋 Hey, I'm CAFÉ  
+<h1 align="center">👋 Hey, I'm CAFÉ</h1>
 
-💻 **Junior Frontend Developer** on the journey to become **Full-Stack**  
-📚 Learning **HTML, CSS, JavaScript, PHP, and MySQL** every single day  
-🎯 Passionate about **consistency, discipline, and lifelong learning**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+☕;Future+Full-Stack+Engineer+🚀;Consistency+Discipline+Focus+🔥;Lifelong+Learner+📚" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -21,14 +21,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python" />
 </p>
 
 ---
@@ -36,17 +29,25 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=for-the-badge&color=blueviolet" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/CAFE2l/CAFE2l/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
