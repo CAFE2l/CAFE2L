@@ -7,6 +7,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+☕;Future+Full-Stack+Engineer+🚀;Consistency+Discipline+Focus+🔥;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="assets/neon-header.svg" style="max-width:100%; height:auto;" alt="CAFÉ neon header"/>
+</p>
+
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="CAFÉ neon header">
   <defs>
