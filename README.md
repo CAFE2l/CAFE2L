@@ -30,11 +30,7 @@
 
   </defs>
 
-  <rect width="100%" height="100%" rx="14" fill="#071018"/>
-  <g transform="translate(40,40)">
-    <text class="txt" x="0" y="70">CAFÉ</text>
-    <text class="txt" x="0" y="140" font-size="32">Junior Frontend • Future Full-Stack</text>
-  </g>
+
 </svg>
 
 ---
