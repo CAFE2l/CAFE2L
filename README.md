@@ -22,17 +22,7 @@
       </stop>
     </linearGradient>
 
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-    <style><![CDATA[
-      .txt { font-family: "Fira Code", "Segoe UI", Roboto, sans-serif; font-weight:700; font-size:64px; fill: url(#g); stroke: rgba(255,255,255,0.05); stroke-width:1; }
-      .outline { fill:none; stroke:#00000044; stroke-width:6; filter:url(#glow); opacity:0.9 }
-    ]]></style>
+
   </defs>
 
   <rect width="100%" height="100%" rx="14" fill="#071018"/>
