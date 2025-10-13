@@ -10,15 +10,15 @@
 
 ---
 
-## 🚀 About Me  
-- 🌱 Always exploring new **technologies** and **web development practices**  
-- 🎥 Streaming **daily study sessions** on YouTube (**Study With Me – Pomodoro 60/10**)  
-- 🏋️‍♂️ Athlete in **arm wrestling, calisthenics, and climbing**  
-- ✨ Inspiring people through **dedication, focus, and persistence**  
+## 🚀 About Me
+- 🌱 Always exploring new **technologies** and **web development practices**.
+- 🎥 Streaming **daily study sessions** on YouTube (**Study With Me – Pomodoro 60/10**).
+- 🏋️‍♂️ Athlete in **arm wrestling, calisthenics, and climbing**.
+- ✨ Inspiring people through **dedication, focus, and persistence**.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -31,9 +31,9 @@
 ## 📊 My Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 <p align="center">
@@ -41,36 +41,36 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
 </p>
 
 <p align="center">
-    <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🎥 YouTube & Live Streams  
-
-<p align="center">
-    <a href="https://www.youtube.com/@CAFE_ct/streams">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffree-vector-youtube-icon-logo-social-media-logo_901408-454.jpg%3Fw%3D2000&f=1&nofb=1&ipt=dd7fba99cb6030d9f0d496512b6faa6f1e45fe41577435a37948d5c53c291699" alt="Cards de Vídeos do YouTube"/>
-  </a>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🎥 YouTube & Live Streams
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.youtube.com/@CAFE_ct/streams" target="_blank" rel="noopener noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffree-vector-youtube-icon-logo-social-media-logo_901408-454.jpg%3Fw%3D2000&f=1&nofb=1&ipt=dd7fba99cb6030d9f0d496512b6faa6f1e45fe41577435a37948d5c53c291699" alt="YouTube Live Streams" />
   </a>
-  <a href="mailto:gutiajs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://wa.me/5541996713782" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="mailto:gutiajs@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/5541996713782" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
