@@ -41,18 +41,21 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
 </p>
 
+<p align="center">
+    <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🎥 YouTube & Live Streams  
 
 <p align="center">
-    <a href="https://www.youtube.com/@CAFE_ct/streams">
-    <p>Youtube LiveStreams</p>
+    <a href="https://www.youtube.com/@CAFE_ct/streams">
+    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=UC8W2g4N2jSoUOMYn2_s7x1g&layout=compact&theme=tokyonight&border_radius=15" alt="Cards de Vídeos do YouTube"/>
   </a>
 </p>
 
@@ -61,16 +64,13 @@
 ## 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    LinkedIn
   </a>
-  <a href="mailto:gutiajs@gmail.com">
+  <a href="mailto:gutiajs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-    Gmail
   </a>
   <a href="https://wa.me/5541996713782" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-    Whatsapp
   </a>
 </p>
