@@ -55,7 +55,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/@CAFE_ct/streams">
-    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=UC8W2g4N2jSoUOMYn2_s7x1g&layout=compact&theme=tokyonight&border_radius=15" alt="Cards de Vídeos do YouTube"/>
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffree-vector-youtube-icon-logo-social-media-logo_901408-454.jpg%3Fw%3D2000&f=1&nofb=1&ipt=dd7fba99cb6030d9f0d496512b6faa6f1e45fe41577435a37948d5c53c291699" alt="Cards de Vídeos do YouTube"/>
   </a>
 </p>
 
