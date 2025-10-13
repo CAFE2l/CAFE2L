@@ -53,7 +53,7 @@ Passionate about technology and growth, I am constantly exploring the latest **w
 
 <p align="center">
   <a href="https://www.youtube.com/@CAFE_ct/streams" target="_blank" rel="noopener noreferrer" title="YouTube Live Streams">
-    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffree-vector-youtube-icon-logo-social-media-logo_901408-454.jpg%3Fw%3D2000&f=1&nofb=1&ipt=dd7fba99cb6030d9f0d496512b6faa6f1e45fe41577435a37948d5c53c291699" alt="YouTube Live Streams" />
+    Youtube Streams
   </a>
 </p>
 
