@@ -52,7 +52,7 @@
 
 <p align="center">
     <a href="https://www.youtube.com/@CAFE_ct/streams">
-    <img src="https://www.youtube.com/@CAFE_ct/streams" alt="Cards de Vídeos do YouTube"/>
+    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=UC8W2g4N2jSoUOMYn2_s7x1g&layout=compact&theme=tokyonight&border_radius=15" alt="Cards de Vídeos do YouTube"/>
   </a>
 </p>
 
