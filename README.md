@@ -2,51 +2,49 @@
   <img width="910" height="501" alt="banner" src="https://github.com/user-attachments/assets/7b95841c-ec23-45ed-aa03-9441c0c2c44e" />
 </p>
 
-<h1 align="center">👋 Hey, I'm CAFÉ</h1>
+<h1 align="center">👋 Hello, I'm CAFÉ</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer+☕;Future+Full-Stack+Engineer+🚀;Consistency+Discipline+Focus+🔥;Lifelong+Learner+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Frontend+Developer+☕;Future+Full-Stack+Engineer+🚀;Consistency,+Discipline+%26+Focus+🔥;Lifelong+Learner+📚" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🌱 Always exploring new **technologies** and **web development practices**.
-- 🎥 Streaming **daily study sessions** on YouTube (**Study With Me – Pomodoro 60/10**).
-- 🏋️‍♂️ Athlete in **arm wrestling, calisthenics, and climbing**.
-- ✨ Inspiring people through **dedication, focus, and persistence**.
+
+Passionate about technology and growth, I am constantly exploring the latest **web development trends** and **best practices**. When I'm not coding, you can find me streaming productive **study sessions** on YouTube or pushing my limits in **arm wrestling, calisthenics, and climbing**. I believe in inspiring others through **consistency, discipline, and persistence**.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python&perline=4" />
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python&perline=4" alt="Tech stack icons" />
   </a>
 </p>
 
 ---
 
-## 📊 My Stats & Activity
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CAFE2l&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CAFE2l&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers" />
+  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="Followers" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" alt="GitHub Contributions" />
 </p>
 
 ---
@@ -54,23 +52,23 @@
 ## 🎥 YouTube & Live Streams
 
 <p align="center">
-  <a href="https://www.youtube.com/@CAFE_ct/streams" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.youtube.com/@CAFE_ct/streams" target="_blank" rel="noopener noreferrer" title="YouTube Live Streams">
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Ffree-vector-youtube-icon-logo-social-media-logo_901408-454.jpg%3Fw%3D2000&f=1&nofb=1&ipt=dd7fba99cb6030d9f0d496512b6faa6f1e45fe41577435a37948d5c53c291699" alt="YouTube Live Streams" />
   </a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:gutiajs@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:gutiajs@gmail.com" target="_blank" rel="noopener noreferrer" title="Send Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/5541996713782" target="_blank" rel="noopener noreferrer">
+  <a href="https://wa.me/5541996713782" target="_blank" rel="noopener noreferrer" title="WhatsApp Chat">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
