@@ -16,12 +16,14 @@ Passionate about technology and growth, I am constantly exploring the latest **w
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+
+
 
 <p align="center">
-  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python&perline=4" alt="Tech stack icons" />
-  </a>
+
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python" />
+
 </p>
 
 ---
