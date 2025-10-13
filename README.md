@@ -21,9 +21,9 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python&perline=4" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,figma,firebase,python&perline=4" />
+  </a>
 </p>
 
 ---
@@ -31,21 +31,22 @@
 ## 📊 My Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CAFE2l&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFE2l&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFE2l&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CAFE2l&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CAFE2l&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CAFE2l&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+    <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,9 +54,9 @@
 ## 🎥 YouTube & Live Streams  
 
 <p align="center">
-  <a href="https://www.youtube.com/@CAFE_ct/streams">
-    <img src="https://yt-latest-videos.vercel.app/api?id=UC8W2g4N2jSoUOMYn2_s7x1g&type=playlist&layout=horizontal&title=Meus+%C3%BAltimos+v%C3%ADdeos&description=Acompanhe+minhas+lives+de+estudo!&theme=tokyonight" alt="Latest YouTube Videos"/>
-  </a>
+    <a href="https://www.youtube.com/@CAFE_ct/streams">
+    <img src="https://github-readme-youtube-cards.vercel.app/api?channel_id=UC8W2g4N2jSoUOMYn2_s7x1g&layout=compact&theme=tokyonight&border_radius=15" alt="Cards de Vídeos do YouTube"/>
+  </a>
 </p>
 
 ---
@@ -72,9 +73,4 @@
   <a href="https://wa.me/5541996713782" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CAFE2l&color=blueviolet&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CAFE2l?label=Followers&style=flat-square&color=blueviolet" alt="followers"/>
 </p>
