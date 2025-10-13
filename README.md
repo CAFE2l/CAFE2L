@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/CAFE2l/CAFE2l/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+  <img src="https://github-contribution-grid-snake.vercel.app/api?user=CAFE2l&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
