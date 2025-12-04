@@ -42,11 +42,11 @@
   
   <!-- Backend -->
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django,postgrersql" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,postman,vercel" />
   
 </div>
 
