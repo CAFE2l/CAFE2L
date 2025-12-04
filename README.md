@@ -42,7 +42,7 @@
   
   <!-- Backend -->
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,nodejs,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
