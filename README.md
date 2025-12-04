@@ -46,7 +46,7 @@
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,linux,postman,vercel,aws" />
   
 </div>
 
