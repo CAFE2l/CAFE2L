@@ -67,27 +67,27 @@
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" target="_blank" rel="noopener noreferrer" title="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/gabriel-felipe-sabino-de-souza-ab05a630a/" rel="noopener noreferrer" title="LinkedIn Profile"  target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   
   <!-- WhatsApp -->
-  <a href="https://wa.me/5541996713782" target="_blank" rel="noopener noreferrer" title="WhatsApp Chat">
+  <a href="https://wa.me/5541996713782"  rel="noopener noreferrer" title="WhatsApp Chat" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   
   <!-- Twitter -->
-  <a href="https://twitter.com/SEU_USUARIO_TWITTER" target="_blank" rel="noopener noreferrer" title="Twitter Profile">
+  <a href="https://twitter.com/SEU_USUARIO_TWITTER"  rel="noopener noreferrer" title="Twitter Profile"  target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   
   <!-- Email -->
-  <a href="mailto:gutiajs@gmail.com" target="_blank" rel="noopener noreferrer" title="Send Email">
+  <a href="mailto:gutiajs@gmail.com" rel="noopener noreferrer" title="Send Email" target="_blank" >
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   
   <!-- YouTube -->
-  <a href="https://www.youtube.com/@CAFE_ct/streams" target="_blank" rel="noopener noreferrer" title="YouTube Channel">
+  <a href="https://www.youtube.com/@CAFE_ct/streams" rel="noopener noreferrer" title="YouTube Channel" target="_blank" >
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
   
