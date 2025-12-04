@@ -5,9 +5,6 @@
 <h1 align="center">👋 Hello, I'm CAFÉ</h1>
 <h3 align="center">Frontend Developer ☕ | Future Full-Stack Engineer 🚀</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Consistency%2C+Discipline+%26+Focus+🔥;Lifelong+Learner+📚;Building+The+Future+With+Code+💻" alt="Typing SVG" />
-</p>
 
 ---
 
@@ -41,11 +38,11 @@
   
   <!-- Frontend -->
   <h4>🌐 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,tailwind,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,tailwind,typescript" />
   
   <!-- Backend -->
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,express,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,nodejs,firebase" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
