@@ -3,7 +3,10 @@
 </p>
 
 <h1 align="center">👋 Hello, I'm CAFÉ</h1>
-<h3 align="center">Frontend Developer ☕ | Future Full-Stack Engineer 🚀</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=UI/UX+Design☕;Full-Stack+Developer+🚀;Consistency,+Discipline+%26+Focus+🔥;Project+Manager+📚" alt="Typing SVG" />
+</p>
+
 
 
 ---
