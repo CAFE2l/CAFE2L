@@ -1,6 +1,5 @@
 <p align="center">
  <img width="762" height="427" alt="image" src="https://github.com/user-attachments/assets/5a8ad693-8cdf-4c05-a045-d42f07e2cf13" />
-" />
 </p>
 
 <h1 align="center">👋 Hello, I'm CAFÉ</h1>
