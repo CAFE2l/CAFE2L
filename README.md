@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="910" height="501" alt="banner" src="https://github.com/user-attachments/assets/7b95841c-ec23-45ed-aa03-9441c0c2c44e" />
+  <img width="910" height="501" alt="banner" src="file:///C:/Users/User/OneDrive/Imagens/Screenshots/Captura%20de%20tela%202025-12-04%20212901.png" />
 </p>
 
 <h1 align="center">👋 Hello, I'm CAFÉ</h1>
