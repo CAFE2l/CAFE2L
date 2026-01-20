@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hello, I'm CAFÉ</h1>
 <p align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com](https://assets.grok.com/users/e004d41b-ec2b-4ec1-ab23-1ffeccb76878/generated/ecb52102-e424-4fba-b775-b4c3bab31cd7/image.jpg)?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=UI/UX+Design☕;Full-Stack+Developer+🚀;Web3+Enthusiast🔥;Project+Manager+📚" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=UI/UX+Design☕;Full-Stack+Developer+🚀;Web3+Enthusiast🔥;Project+Manager+📚" alt="Typing SVG" />
 </p>
 
 
