@@ -44,7 +44,7 @@
   
   <!-- Backend -->
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django,wordpress" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
