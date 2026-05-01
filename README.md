@@ -40,11 +40,11 @@
   
   <!-- Frontend -->
   <h4>🌐 Frontend</h4>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,tailwind,typescript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,vite,tailwind,typescript" />
   
   <!-- Backend -->
   <h4>⚙️ Backend</h4>
-  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,django,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,python,mysql,mongodb,firebase,git,npm" />
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
