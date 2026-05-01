@@ -48,7 +48,7 @@
   
   <!-- Tools -->
   <h4>🔧 Tools & Others</h4>
-  <img src="https://skillicons.dev/icons?i=neovim,obsidian,figma,vscode,linux,postman,vercel,bash" />
+  <img src="https://skillicons.dev/icons?i=notion,obsidian,figma,vscode,linux,postman,vercel,bash" />
   
 </div>
 
